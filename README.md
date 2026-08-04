@@ -1,7 +1,7 @@
 # Kalshi Weather Markets — Live Pilot Results (Jun 21 – Aug 3, 2026)
 
 Trade-level results from a 44-day live research pilot trading daily
-high-temperature range contracts on Kalshi with a small real-money account.(Ten dollars)
+high-temperature range contracts on Kalshi with a small real-money account.(Twenty dollars)
 
 **Strategy tested:** buy NO on a temperature bucket when the NWS forecast high
 clears the bucket's upper bound by 0–2°F.
